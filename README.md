@@ -143,4 +143,4 @@ len(df[(df['Sex']==0) & (df['Pclass']==1)])
 
 ## Author
 
-**Syed Ateeb Shah**\
+**Syed Ateeb Shah**
