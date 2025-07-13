@@ -141,6 +141,8 @@ len(df[(df['Sex']==0) & (df['Pclass']==1)])
 * Seaborn
 * Jupyter Notebook
 
----
+## Author
 
-This project demonstrates how to clean data, explore it, and present findings using visualizations — turning raw data into clear insights.
+**Syed Ateeb Shah**\
+This project is part of my portfolio to demonstrate SQL data analysis skills using PostgreSQL.\
+For questions and feedback, feel free to connect.
