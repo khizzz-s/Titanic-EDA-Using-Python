@@ -144,5 +144,3 @@ len(df[(df['Sex']==0) & (df['Pclass']==1)])
 ## Author
 
 **Syed Ateeb Shah**\
-This project is part of my portfolio to demonstrate SQL data analysis skills using PostgreSQL.\
-For questions and feedback, feel free to connect.
